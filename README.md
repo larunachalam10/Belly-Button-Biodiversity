@@ -17,4 +17,4 @@ CODE FILES
 
 2.index.html- Contains the Javascript code to get the data and create the 3 charts, the metadata, and the dropdown with the list of sample IDs.
 
-3.style.css- CSS styling for the panel
+
